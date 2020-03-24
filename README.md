@@ -11,13 +11,13 @@
 ## Supermercados, mercardos e mercearias
 - Chegou a Feira (https://www.chegouafeira.com.br/)
 - Rei das Carnes - (83) 3185-5435 (https://bit.ly/2QCYDbM)
-- IOB 3226-6305
-- Supermercado Classe A 3185-5836
-- Supermercado Manaíra 3226-3993
-- Supermercado Verde Vale Geisel 3231-2244
-- Supermercado União Róger 3221-5573
-- Supermercado Santiago na Torre 3224-7508
-- Do Dia Supermercados 3246-6601
+- Supermercado Iob - (83) 3226-6305
+- Supermercado Classe A - (83) 3185-5836
+- Supermercado Manaíra - (83) 3226-3993
+- Supermercado Verde Vale Geisel - (83) 3231-2244
+- Supermercado União Róger - (83) 3221-5573
+- Supermercado Santiago na Torre - (83) 3224-7508
+- Do Dia Supermercados - (83) 3246-6601
 
 # Fontes:
  https://www.portalt5.com.br/noticias/paraiba/2020/3/310923-confira-lista-com-farmacias-que-fazem-entrega-em-joao-pessoa
