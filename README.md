@@ -18,6 +18,7 @@
 - Supermercado União Róger - (83) 3221-5573
 - Supermercado Santiago na Torre - (83) 3224-7508
 - Do Dia Supermercados - (83) 3246-6601
+- Mercadinho Brilhante - (83) 98858-3439 - Taxa de entrega em média R$ 5,00
 
 # Fontes:
  https://www.portalt5.com.br/noticias/paraiba/2020/3/310923-confira-lista-com-farmacias-que-fazem-entrega-em-joao-pessoa
