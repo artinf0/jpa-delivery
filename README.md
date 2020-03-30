@@ -21,6 +21,6 @@
 - Mercadinho Brilhante - (83) 98858-3439 - Taxa de entrega em média R$ 5,00
 - Mercatto Bancários - (83) 3507-0509
 
-# Fontes:
- https://www.portalt5.com.br/noticias/paraiba/2020/3/310923-confira-lista-com-farmacias-que-fazem-entrega-em-joao-pessoa
- https://www.politicaparaibana.com/faca-sua-feira-sem-sair-de-casa-junior-belchior/
+## Fontes:
+- https://www.portalt5.com.br/noticias/paraiba/2020/3/310923-confira-lista-com-farmacias-que-fazem-entrega-em-joao-pessoa
+- https://www.politicaparaibana.com/faca-sua-feira-sem-sair-de-casa-junior-belchior/
